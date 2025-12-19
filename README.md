@@ -53,8 +53,7 @@ Blurred output image:
 
 ## Comparison of input and output image
 
-<img src="https://github.com/user-attachments/assets/e20eb049-e5c6-4182-99a6-b43d576627ce" width="600">
-
+<img width="1500" height="761" alt="comparison" src="https://github.com/user-attachments/assets/c2785553-17f8-46c8-b257-bb3eb4943aed" />
 
 ## ▶️ How to Compile and Run
 
