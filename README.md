@@ -51,6 +51,10 @@ Blurred output image:
 
 ---
 
+## Comparison of input and output image
+
+![comparison](https://github.com/user-attachments/assets/e20eb049-e5c6-4182-99a6-b43d576627ce)
+
 ## ▶️ How to Compile and Run
 
 ```bash
