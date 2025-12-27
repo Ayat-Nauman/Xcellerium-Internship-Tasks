@@ -1,4 +1,3 @@
-# Xcellerium-Internship-Tasks
 # Simple BMP Blur Processor
 
 This project demonstrates a **minimal C++ implementation** for:
